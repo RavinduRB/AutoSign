@@ -73,7 +73,9 @@ Click the **Generate Signature** button to preview your signature in the **Signa
 2. A high-resolution image of your signature will be generated and saved as a PNG file.  
 3. The downloaded file can be used on digital platforms, documents, or shared with others.  
 
-### 🔹 Step 5: Clear for a New Signature  
+### 🔹 Step 5: Clear for a New Signature 
+![01](https://github.com/user-attachments/assets/12ab76cf-9491-46e4-8dcc-4e4aea94c1de)
+
 If you wish to create another signature:  
 1. Click the **Clear** button.  
 2. The name input field and preview area will reset, allowing you to start fresh.  
