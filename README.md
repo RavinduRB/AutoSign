@@ -2,6 +2,9 @@
 
 AutoSign is a sleek, user-friendly web application designed to generate stylish digital signatures effortlessly. This tool allows users to personalize their signatures using a variety of elegant fonts and save them as high-quality images for professional or creative use.
 
+https://github.com/user-attachments/assets/7f32209f-bfa1-4759-b1c8-266316fc2816
+
+
 ### 🟢 Features:
 1. **Dynamic Font Selection**  
    Choose from a curated collection of beautiful script and handwriting fonts, such as "Dancing Script," "Great Vibes," and "Pacifico," to create a signature that reflects your style.
