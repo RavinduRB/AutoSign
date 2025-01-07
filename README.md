@@ -49,20 +49,26 @@ Welcome to AutoSign, an easy-to-use application for creating stylish digital sig
 ## 🟣 **How to Use**
 ### 🔹 Step 1: Enter Your Name  
 ![01](https://github.com/user-attachments/assets/8ef0972d-be37-45a2-adcc-ad9d9a0de702)
+
 ![02](https://github.com/user-attachments/assets/57da1215-3c65-41ce-b936-d07cee61a740)
+
 Type your name or desired text into the **Name Input Field**. This is the content that will be displayed as your signature.  
 
 ### 🔹 Step 2: Select a Font
 ![03](https://github.com/user-attachments/assets/62ea862e-6e25-42e2-b5dd-5a220b7f35ca)
+
 Choose your preferred font style from the dropdown menu labeled **Font Selector**. The application includes fonts like "Dancing Script," "Great Vibes," "Pacifico," and more.  
 
 ### 🔹 Step 3: Generate Your Signature  
 ![04](https://github.com/user-attachments/assets/94c028a5-2939-4d8c-83cd-af2fb9cca085)
+
 Click the **Generate Signature** button to preview your signature in the **Signature Preview Area**. Your selected font will be applied immediately.  
 
 ### 🔹 Step 4: Save Your Signature 
 ![05](https://github.com/user-attachments/assets/01fa3013-fc02-47f2-8a45-46f4e1a68343)
+
 ![06](https://github.com/user-attachments/assets/e857066b-0eb8-4ceb-b6ba-a8bb5c87e51d)
+
 1. Once satisfied with the preview, click the **Save as Image** button.  
 2. A high-resolution image of your signature will be generated and saved as a PNG file.  
 3. The downloaded file can be used on digital platforms, documents, or shared with others.  
