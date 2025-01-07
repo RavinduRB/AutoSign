@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoSign</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Pacifico&family=Indie+Flower&family=Kaushan+Script&family=Lobster&family=Playball&family=Satisfy&family=Shadows+Into+Light&family=Alex+Brush&family=Allura&family=Arizonia&family=Bad+Script&family=Cookie&family=Courgette&family=Gloria+Hallelujah&family=Homemade+Apple&family=Just+Another+Hand&family=Mr+Dafoe&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-6 rounded-lg shadow-lg">
+	<center>
+        	<h1 class="text-2xl font-bold mb-4">AutoSign</h1>
+	</center>
+        <input id="name-input" type="text" class="border-2 border-gray-300 p-2 rounded mb-4 w-full" placeholder="Enter your name">
+        <select id="font-select" class="border-2 border-gray-300 p-2 rounded mb-4 w-full">
+            <option value="Dancing Script">Dancing Script</option>
+            <option value="Great Vibes">Great Vibes</option>
+            <option value="Pacifico">Pacifico</option>
+            <option value="Indie Flower">Indie Flower</option>
+            <option value="Kaushan Script">Kaushan Script</option>
+            <option value="Lobster">Lobster</option>
+            <option value="Playball">Playball</option>
+            <option value="Satisfy">Satisfy</option>
+            <option value="Shadows Into Light">Shadows Into Light</option>
+            <option value="Alex Brush">Alex Brush</option>
+            <option value="Allura">Allura</option>
+            <option value="Arizonia">Arizonia</option>
+            <option value="Bad Script">Bad Script</option>
+            <option value="Cookie">Cookie</option>
+            <option value="Courgette">Courgette</option>
+            <option value="Gloria Hallelujah">Gloria Hallelujah</option>
+            <option value="Homemade Apple">Homemade Apple</option>
+            <option value="Just Another Hand">Just Another Hand</option>
+            <option value="Mr Dafoe">Mr Dafoe</option>
+            <option value="Nanum Pen Script">Nanum Pen Script</option>
+        </select>
+        <div class="flex space-x-2">
+            <button id="generate-btn" class="bg-blue-500 text-white px-4 py-2 rounded w-full mb-4">Generate Signature</button>
+            <button id="clear-btn" class="bg-red-500 text-white px-4 py-2 rounded w-full mb-4">Clear</button>
+            <button id="save-btn" class="bg-green-500 text-white px-4 py-2 rounded w-full mb-4">Save as Image</button>
+        </div>
+<center>
+        <div id="signature" class="text-4xl text-gray-700"></div>
+</center>
+        <!-- Hidden Canvas for Image Generation -->
+        <canvas id="signature-canvas" class="hidden"></canvas>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
