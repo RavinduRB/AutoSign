@@ -1,6 +1,6 @@
 # 🚀 AutoSign - Automatic Signature Generator 🚀
 
-AutoSign is a sleek, user-friendly web application designed to generate stylish digital signatures effortlessly. This tool allows users to personalize their signatures using a variety of elegant fonts and save them as high-quality images for professional or creative use.
+AutoSign is a sleek, user friendly web application designed to generate stylish digital signatures effortlessly. This tool allows users to personalize their signatures using a variety of elegant fonts and save them as high quality images for professional or creative use.
 
 https://github.com/user-attachments/assets/7f32209f-bfa1-4759-b1c8-266316fc2816
 
@@ -9,14 +9,14 @@ https://github.com/user-attachments/assets/7f32209f-bfa1-4759-b1c8-266316fc2816
 1. **Dynamic Font Selection**  
    Choose from a curated collection of beautiful script and handwriting fonts, such as "Dancing Script," "Great Vibes," and "Pacifico," to create a signature that reflects your style.
 
-2. **Real-Time Signature Preview**  
+2. **Real Time Signature Preview**  
    Enter your name in the input field, select your preferred font, and see your signature update instantly in the preview area.
 
 3. **Clear and Reset**  
-   Quickly reset the name and preview with the click of a button for easy re-customization.
+   Quickly reset the name and preview with the click of a button for easy recustomization.
 
 4. **Save as an Image**  
-   Generate a high-resolution PNG of your signature using a hidden canvas, allowing you to download and use it on documents, websites, or other digital platforms.
+   Generate a high resolution PNG of your signature using a hidden canvas, allowing you to download and use it on documents, websites, or other digital platforms.
 
 5. **Responsive and Intuitive Design**  
    Built with **Tailwind CSS**, the interface is modern, clean, and fully responsive, ensuring a seamless experience across all devices.
@@ -33,7 +33,7 @@ AutoSign simplifies the process of creating a personalized digital signature, ma
  
 ### 🔵 **User Manual**  
 
-Welcome to AutoSign, an easy-to-use application for creating stylish digital signatures. Follow this guide to make the most of the features available in the app.  
+Welcome to AutoSign, an easy to use application for creating stylish digital signatures. Follow this guide to make the most of the features available in the app.  
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to AutoSign, an easy-to-use application for creating stylish digital sig
    - **Name Input Field**: Enter your name or text to generate a signature.  
    - **Font Selector**: Choose from a variety of script and handwriting fonts.  
    - **Action Buttons**: Use the **Generate**, **Clear**, and **Save** buttons for interacting with the app.  
-   - **Signature Preview Area**: Displays a real-time preview of your signature.  
+   - **Signature Preview Area**: Displays a real time preview of your signature.  
 
 ---
 
@@ -73,7 +73,7 @@ Click the **Generate Signature** button to preview your signature in the **Signa
 ![06](https://github.com/user-attachments/assets/e857066b-0eb8-4ceb-b6ba-a8bb5c87e51d)
 
 1. Once satisfied with the preview, click the **Save as Image** button.  
-2. A high-resolution image of your signature will be generated and saved as a PNG file.  
+2. A high resolution image of your signature will be generated and saved as a PNG file.  
 3. The downloaded file can be used on digital platforms, documents, or shared with others.  
 
 ### 🔹 Step 5: Clear for a New Signature 
